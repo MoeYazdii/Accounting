@@ -112,21 +112,21 @@
             // 
             this.txtEmail.Location = new System.Drawing.Point(23, 134);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(220, 24);
+            this.txtEmail.Size = new System.Drawing.Size(220, 21);
             this.txtEmail.TabIndex = 6;
             // 
             // txtMobile
             // 
             this.txtMobile.Location = new System.Drawing.Point(23, 87);
             this.txtMobile.Name = "txtMobile";
-            this.txtMobile.Size = new System.Drawing.Size(220, 24);
+            this.txtMobile.Size = new System.Drawing.Size(220, 21);
             this.txtMobile.TabIndex = 5;
             // 
             // txtFullName
             // 
             this.txtFullName.Location = new System.Drawing.Point(23, 40);
             this.txtFullName.Name = "txtFullName";
-            this.txtFullName.Size = new System.Drawing.Size(220, 24);
+            this.txtFullName.Size = new System.Drawing.Size(220, 21);
             this.txtFullName.TabIndex = 4;
             // 
             // label4
@@ -134,7 +134,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(201, 161);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(45, 17);
+            this.label4.Size = new System.Drawing.Size(36, 13);
             this.label4.TabIndex = 3;
             this.label4.Text = "آدرس:";
             // 
@@ -143,7 +143,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(198, 114);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 17);
+            this.label3.Size = new System.Drawing.Size(36, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "ایمیل:";
             // 
@@ -152,16 +152,16 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(198, 67);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(48, 17);
+            this.label2.Size = new System.Drawing.Size(39, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "موبایل:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(133, 20);
+            this.label1.Location = new System.Drawing.Point(144, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(117, 17);
+            this.label1.Size = new System.Drawing.Size(93, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "نام و نام خانوادگی:";
             // 
@@ -191,7 +191,7 @@
             // 
             // frmAddOrEditCustomer
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(488, 308);
             this.Controls.Add(this.btnSave);
@@ -202,6 +202,7 @@
             this.Name = "frmAddOrEditCustomer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "افزودن شخص جدید";
+            this.Load += new System.EventHandler(this.frmAddOrEditCustomer_Load);
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pcCustomer)).EndInit();
             this.groupBox2.ResumeLayout(false);

@@ -57,7 +57,7 @@
             this.txtFilter});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(582, 64);
+            this.toolStrip1.Size = new System.Drawing.Size(582, 60);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -67,7 +67,7 @@
             this.btnAddNewCustomer.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnAddNewCustomer.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnAddNewCustomer.Name = "btnAddNewCustomer";
-            this.btnAddNewCustomer.Size = new System.Drawing.Size(85, 61);
+            this.btnAddNewCustomer.Size = new System.Drawing.Size(67, 57);
             this.btnAddNewCustomer.Text = "شخص جدید";
             this.btnAddNewCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnAddNewCustomer.Click += new System.EventHandler(this.btnAddNewCustomer_Click);
@@ -78,9 +78,10 @@
             this.btnEditCustomer.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnEditCustomer.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnEditCustomer.Name = "btnEditCustomer";
-            this.btnEditCustomer.Size = new System.Drawing.Size(97, 61);
+            this.btnEditCustomer.Size = new System.Drawing.Size(78, 57);
             this.btnEditCustomer.Text = "ویرایش شخص";
             this.btnEditCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnEditCustomer.Click += new System.EventHandler(this.btnEditCustomer_Click);
             // 
             // btnRemoveCustomer
             // 
@@ -88,7 +89,7 @@
             this.btnRemoveCustomer.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnRemoveCustomer.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnRemoveCustomer.Name = "btnRemoveCustomer";
-            this.btnRemoveCustomer.Size = new System.Drawing.Size(85, 61);
+            this.btnRemoveCustomer.Size = new System.Drawing.Size(68, 57);
             this.btnRemoveCustomer.Text = "حذف شخص";
             this.btnRemoveCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnRemoveCustomer.ToolTipText = "remove person";
@@ -100,7 +101,7 @@
             this.btnUpdate.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnUpdate.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(74, 61);
+            this.btnUpdate.Size = new System.Drawing.Size(60, 57);
             this.btnUpdate.Text = "بروزرسانی";
             this.btnUpdate.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
@@ -108,14 +109,13 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(53, 61);
+            this.toolStripLabel1.Size = new System.Drawing.Size(42, 57);
             this.toolStripLabel1.Text = "جستجو";
             // 
             // txtFilter
             // 
-            this.txtFilter.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtFilter.Name = "txtFilter";
-            this.txtFilter.Size = new System.Drawing.Size(100, 64);
+            this.txtFilter.Size = new System.Drawing.Size(100, 60);
             this.txtFilter.TextChanged += new System.EventHandler(this.txtFilter_TextChanged);
             // 
             // dgvCustomers
@@ -130,12 +130,12 @@
             this.Column2,
             this.Column3});
             this.dgvCustomers.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvCustomers.Location = new System.Drawing.Point(0, 64);
+            this.dgvCustomers.Location = new System.Drawing.Point(0, 60);
             this.dgvCustomers.Name = "dgvCustomers";
             this.dgvCustomers.ReadOnly = true;
             this.dgvCustomers.RowHeadersWidth = 51;
             this.dgvCustomers.RowTemplate.Height = 24;
-            this.dgvCustomers.Size = new System.Drawing.Size(582, 289);
+            this.dgvCustomers.Size = new System.Drawing.Size(582, 293);
             this.dgvCustomers.TabIndex = 1;
             // 
             // Column1
@@ -173,7 +173,7 @@
             // 
             // frmCustomers
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(582, 353);
             this.Controls.Add(this.dgvCustomers);

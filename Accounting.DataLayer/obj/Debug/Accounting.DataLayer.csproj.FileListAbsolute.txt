@@ -8,3 +8,5 @@ D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj
 D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounti.8EA99DEA.Up2Date
 D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
 D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Code\C#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\Code\C#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb

@@ -1,4 +1,5 @@
 ﻿using Accounting.DataLayer.Repositories;
+using Accounting.ViewModels.Customers;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -61,6 +62,24 @@ namespace Accounting.DataLayer.Services
             return _db.Customers.Find(customersId);
         }
 
+        public List<ListCustomerViewModel> GetNameCustomers(string filter = "")
+        {
+            if(filter == "")
+            {
+                return _db.Customers.Select(c => new ListCustomerViewModel()
+                {
+                    CustomerID = c.CustomerID,
+                     FullName = c.FullName,
+                }).ToList();
+            }
+            return _db.Customers.Where(c=> c.FullName.Contains(filter))
+                .Select(c => new ListCustomerViewModel()
+                {
+                    CustomerID = c.CustomerID,
+                    FullName = c.FullName,
+                }).ToList();
+        }
+
         public bool InsertCustomer(Customers customer)
         {
             try
@@ -79,6 +98,12 @@ namespace Accounting.DataLayer.Services
         {
             try
             {
+                var local = _db.Set<Customers>().Local.FirstOrDefault(f => f.CustomerID == customer.CustomerID);
+                if (local != null)
+                {
+                    _db.Entry(local).State = EntityState.Detached;
+                }
+
                 _db.Entry(customer).State = EntityState.Modified;
                 return true;
             }

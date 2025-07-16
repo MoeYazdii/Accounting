@@ -7,7 +7,6 @@ D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateRes
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
-D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe.config
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
@@ -19,3 +18,7 @@ D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounti.AC66B4A9.Up2Date
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.Customer.frmAddOrEditCustomer.resources
+D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe.config
+D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewTransaction.resources
+D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb

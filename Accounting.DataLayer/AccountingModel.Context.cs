@@ -26,5 +26,7 @@ namespace Accounting.DataLayer
         }
     
         public DbSet<Customers> Customers { get; set; }
+        public DbSet<Accounting> Accounting { get; set; }
+        public DbSet<AccountingType> AccountingType { get; set; }
     }
 }

@@ -11,15 +11,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ValidationComponents;
+using Accounting.App;
 
 namespace Accounting.App.Customer
 {
     public partial class frmAddOrEditCustomer : Form
     {
+        public int customersId = 0;
         UnitOfWork db = new UnitOfWork();
         public frmAddOrEditCustomer()
         {
             InitializeComponent();
+
         }
 
         private void btnSelectImage_Click(object sender, EventArgs e)
@@ -39,11 +42,12 @@ namespace Accounting.App.Customer
                     + Path.GetExtension(pcCustomer.ImageLocation);
 
                 string path = Application.StartupPath + "/Images/";
-                if (!Directory.Exists(path) )
+                if (!Directory.Exists(path))
                 {
                     Directory.CreateDirectory(path);
                 }
-                pcCustomer.Image.Save(path+imageName);
+                pcCustomer.Image.Save(path + imageName);
+
                 Customers customer = new Customers()
                 {
                     FullName = txtFullName.Text,
@@ -52,11 +56,36 @@ namespace Accounting.App.Customer
                     Address = txtAddress.Text,
                     CustomerImage = imageName
                 };
-                db.CustomerRepository.InsertCustomer(customer);
+
+                if (customersId == 0) {
+                    db.CustomerRepository.InsertCustomer(customer);
+
+                }
+                else {
+                    customer.CustomerID = customersId;
+                    db.CustomerRepository.UpdateCustomer(customer);
+                }
+
                 db.Save();
                 DialogResult = DialogResult.OK;
+            }
+        }
 
+        private void frmAddOrEditCustomer_Load(object sender, EventArgs e)
+        {
+
+            if (customersId != 0)
+            {
+                this.Text = "ویرایش شخص";
+                btnSave.Text = "ویرایش";
+                var customer = db.CustomerRepository.GetCustomersById(customersId);
+                txtFullName.Text = customer.FullName;
+                txtMobile.Text = customer.Mobile;
+                txtEmail.Text = customer.Email;
+                txtAddress.Text = customer.Address;
+                pcCustomer.ImageLocation = Application.StartupPath + "/Images/" + customer.CustomerImage;
             }
         }
     }
 }
+

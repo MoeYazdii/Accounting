@@ -7,9 +7,11 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlTypes;
 using System.Drawing;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -75,10 +77,27 @@ namespace Accounting.App
         private void btnAddNewCustomer_Click(object sender, EventArgs e)
         {
             frmAddOrEditCustomer frmAdd = new frmAddOrEditCustomer();
-            if (frmAdd.ShowDialog()==DialogResult.OK) {
+            if (frmAdd.ShowDialog() == DialogResult.OK)
+            {
                 BindGrid();
+            }
+        }
+
+        private void btnEditCustomer_Click(object sender, EventArgs e)
+        {
+            if(dgvCustomers.CurrentRow != null)
+            {
+                int customerId = int.Parse(dgvCustomers.CurrentRow.Cells[0].Value.ToString());
+                frmAddOrEditCustomer frmEdit = new frmAddOrEditCustomer();
+                frmEdit.customersId = customerId;
+                if (frmEdit.ShowDialog() == DialogResult.OK)
+                {
+                    BindGrid();
+                }
             }
         }
     }
 }
+
+
 
