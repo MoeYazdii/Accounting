@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\Code\\C#\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|d:\\code\\c#\\accounting\\accounting.datalayer\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D45326-4D07-4211-BAA3-E19392A3B67C}|Accounting.Business\\Accounting.Business.csproj|d:\\code\\c#\\accounting\\accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D45326-4D07-4211-BAA3-E19392A3B67C}|Accounting.Business\\Accounting.Business.csproj|solutionrelative:accounting.business\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F2F016-26C7-497B-A0C1-F3825B9E12B7}|Accounting.ViewModels\\Accounting.ViewModels.csproj|d:\\code\\c#\\accounting\\accounting.viewmodels\\customers\\listcustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F2F016-26C7-497B-A0C1-F3825B9E12B7}|Accounting.ViewModels\\Accounting.ViewModels.csproj|solutionrelative:accounting.viewmodels\\customers\\listcustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|D:\\Code\\C#\\Accounting\\accounting.datalayer\\accounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\accounting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|d:\\code\\c#\\accounting\\accounting.datalayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|D:\\Code\\C#\\Accounting\\accounting.datalayer\\accountingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\accountingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|d:\\code\\c#\\accounting\\accounting.datalayer\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|D:\\Code\\C#\\Accounting\\accounting.app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|d:\\code\\c#\\accounting\\accounting.datalayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510869ED-EB43-40C9-BFA9-A6BA0D65A4D3}|Accounting.DataLayer\\Accounting.DataLayer.csproj|solutionrelative:accounting.datalayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|D:\\Code\\C#\\Accounting\\accounting.app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|d:\\code\\c#\\accounting\\accounting.app\\frmnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\frmnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|D:\\Code\\C#\\Accounting\\accounting.app\\customerforms\\frmaddoreditcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\customerforms\\frmaddoreditcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|d:\\code\\c#\\accounting\\accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|d:\\code\\c#\\accounting\\accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|D:\\Code\\C#\\Accounting\\accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|d:\\code\\c#\\accounting\\accounting.app\\frmnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\frmnewtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|D:\\Code\\C#\\Accounting\\accounting.app\\customerforms\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C9A97A8-7A64-4828-8AB4-92698C2EE6F0}|Accounting.App\\Accounting.App.csproj|solutionrelative:accounting.app\\customerforms\\frmcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customers.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Customers.cs",
-              "RelativeDocumentMoniker": "Accounting.DataLayer\\Customers.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Customers.cs",
-              "RelativeToolTip": "Accounting.DataLayer\\Customers.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:59:28.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Services\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Accounting.DataLayer\\Services\\GenericRepository.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Services\\GenericRepository.cs",
-              "RelativeToolTip": "Accounting.DataLayer\\Services\\GenericRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:58:47.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Repositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Accounting.DataLayer\\Repositories\\ICustomerRepository.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Repositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "Accounting.DataLayer\\Repositories\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:52:18.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListCustomerViewModel.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.ViewModels\\Customers\\ListCustomerViewModel.cs",
-              "RelativeDocumentMoniker": "Accounting.ViewModels\\Customers\\ListCustomerViewModel.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.ViewModels\\Customers\\ListCustomerViewModel.cs",
-              "RelativeToolTip": "Accounting.ViewModels\\Customers\\ListCustomerViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:50:29.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Services\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Accounting.DataLayer\\Services\\CustomerRepository.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Services\\CustomerRepository.cs",
-              "RelativeToolTip": "Accounting.DataLayer\\Services\\CustomerRepository.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:46:07.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\Form1.cs",
               "RelativeDocumentMoniker": "Accounting.App\\Form1.cs",
               "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\Form1.cs",
               "RelativeToolTip": "Accounting.App\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:41:50.647Z",
+              "WhenOpened": "2025-07-19T09:39:53.714Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.Business\\Account.cs",
+              "RelativeDocumentMoniker": "Accounting.Business\\Account.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.Business\\Account.cs",
+              "RelativeToolTip": "Accounting.Business\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:43:40.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\Form1.cs",
-              "RelativeDocumentMoniker": "Accounting.App\\Form1.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\Form1.cs [Design]",
-              "RelativeToolTip": "Accounting.App\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Accounting.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Accounting.cs",
+              "RelativeDocumentMoniker": "Accounting.DataLayer\\Accounting.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\Accounting.cs",
+              "RelativeToolTip": "Accounting.DataLayer\\Accounting.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:41:49.285Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-19T10:39:41.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountingModel.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\AccountingModel.cs",
+              "RelativeDocumentMoniker": "Accounting.DataLayer\\AccountingModel.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.DataLayer\\AccountingModel.cs",
+              "RelativeToolTip": "Accounting.DataLayer\\AccountingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:39:37.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "frmNewTransaction.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmNewTransaction.cs",
-              "RelativeDocumentMoniker": "Accounting.App\\frmNewTransaction.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmNewTransaction.cs",
-              "RelativeToolTip": "Accounting.App\\frmNewTransaction.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBgAAABNAAAAAAAAAA==",
+              "Title": "frmAddOrEditCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\CustomerForms\\frmAddOrEditCustomer.cs",
+              "RelativeDocumentMoniker": "Accounting.App\\CustomerForms\\frmAddOrEditCustomer.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\CustomerForms\\frmAddOrEditCustomer.cs [Design]",
+              "RelativeToolTip": "Accounting.App\\CustomerForms\\frmAddOrEditCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:37:24.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T10:00:33.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmNewTransaction.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmNewTransaction.cs",
-              "RelativeDocumentMoniker": "Accounting.App\\frmNewTransaction.cs",
-              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmNewTransaction.cs [Design]",
-              "RelativeToolTip": "Accounting.App\\frmNewTransaction.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "frmCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\CustomerForms\\frmCustomers.cs",
+              "RelativeDocumentMoniker": "Accounting.App\\CustomerForms\\frmCustomers.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\CustomerForms\\frmCustomers.cs [Design]",
+              "RelativeToolTip": "Accounting.App\\CustomerForms\\frmCustomers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:31:52.472Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-19T10:00:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Accounting.App\\frmLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Accounting.App\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:00:24.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Accounting.App\\frmLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\Accounting\\Accounting.App\\frmLogin.cs",
+              "RelativeToolTip": "Accounting.App\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:54:53.381Z"
             }
           ]
         }

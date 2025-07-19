@@ -18,7 +18,11 @@ D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounti.AC66B4A9.Up2Date
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.Customer.frmAddOrEditCustomer.resources
-D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe.config
 D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewTransaction.resources
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
 D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReport.resources
+D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+D:\Code\C#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe.config
+D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+D:\Code\C#\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb

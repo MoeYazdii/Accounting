@@ -19,7 +19,7 @@ namespace Accounting.DataLayer
             this.Accounting = new HashSet<Accounting>();
         }
     
-        public int     CustomerID { get; set; }
+        public int CustomerID { get; set; }
         public string FullName { get; set; }
         public string Mobile { get; set; }
         public string Email { get; set; }

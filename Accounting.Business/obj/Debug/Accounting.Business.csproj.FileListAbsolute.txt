@@ -4,3 +4,11 @@ D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.A
 D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
 D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
 D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+D:\Code\C#\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounti.8B973F94.Up2Date

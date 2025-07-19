@@ -113,6 +113,16 @@ namespace Accounting.App.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap financial {
+            get {
+                object obj = ResourceManager.GetObject("financial", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fingerprint_reader {
             get {
                 object obj = ResourceManager.GetObject("fingerprint_reader", resourceCulture);
@@ -136,6 +146,26 @@ namespace Accounting.App.Properties {
         internal static System.Drawing.Bitmap list2 {
             get {
                 object obj = ResourceManager.GetObject("list2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mainpage {
+            get {
+                object obj = ResourceManager.GetObject("mainpage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mainpage1 {
+            get {
+                object obj = ResourceManager.GetObject("mainpage1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
