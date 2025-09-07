@@ -4,3 +4,9 @@ D:\Code\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.Ass
 D:\Code\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
 D:\Code\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
 D:\Code\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+P:\GitHubOffline\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+P:\GitHubOffline\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+P:\GitHubOffline\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+P:\GitHubOffline\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+P:\GitHubOffline\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+P:\GitHubOffline\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

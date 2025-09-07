@@ -4,3 +4,9 @@ D:\Code\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.cspr
 D:\Code\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
 D:\Code\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
 D:\Code\C#\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+P:\GitHubOffline\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+P:\GitHubOffline\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+P:\GitHubOffline\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+P:\GitHubOffline\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+P:\GitHubOffline\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+P:\GitHubOffline\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

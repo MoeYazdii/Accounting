@@ -12,3 +12,17 @@ D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.con
 D:\Code\C#\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
 D:\Code\C#\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
 D:\Code\C#\Accounting\Accounting.Business\obj\Debug\Accounti.8B973F94.Up2Date
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+P:\GitHubOffline\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+P:\GitHubOffline\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+P:\GitHubOffline\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+P:\GitHubOffline\Accounting\Accounting.Business\obj\Debug\Accounti.8B973F94.Up2Date
+P:\GitHubOffline\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+P:\GitHubOffline\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

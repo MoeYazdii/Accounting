@@ -10,3 +10,15 @@ D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
 D:\Code\C#\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
 D:\Code\C#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
 D:\Code\C#\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+P:\GitHubOffline\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+P:\GitHubOffline\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+P:\GitHubOffline\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+P:\GitHubOffline\Accounting\Accounting.DataLayer\obj\Debug\Accounti.8EA99DEA.Up2Date
+P:\GitHubOffline\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+P:\GitHubOffline\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
